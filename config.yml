@@ -1,0 +1,19 @@
+#config.yml
+service:
+    A:
+        name: "mmm"
+
+
+
+logger:
+    filename: "vvv"
+    level: 0
+
+
+database:
+    mysql:
+    mongo:
+
+
+
+
